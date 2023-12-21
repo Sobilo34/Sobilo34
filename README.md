@@ -1,6 +1,6 @@
 <h1 align="center"> DEV. SOBIL 💻💻 </h1>
  <div align="center" style="color: red;">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0000FF&size=32&center=true&vCenter=true&width=600&height=50&lines=Hello,+it's+Nice+to+meet+Sobil+%F0%9F%91%8B;+++Full-Stack+Developer;Software+Engineer;Protagonist+in+Agile+Technology;Freelancer;AI+Enthusiast;" alt="Headline" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=0000FF&size=32&center=true&vCenter=true&width=600&height=50&lines=Hello,+I'm+Sobil+%F0%9F%91%8B;+++Full-Stack+Developer;Software+Engineer;Protagonist+in+Agile+Technology;Freelancer;AI+Enthusiast;" alt="Headline" />
 </div>
 
 <div align="center">
