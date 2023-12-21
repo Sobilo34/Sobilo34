@@ -30,13 +30,13 @@
 
 - 💬 I do **The 100 days coding challenge**
 
-- ⚡ Fun fact: **There are about 2,500 programming languages.**
+- ⚡ Personal Discovery: **I am a Protagonist**
 
 - 📫 My Email: **bilalsolih60@gmail.com**
 
 
  <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hunterxcobby&theme=algolia" alt="hunterxcobby" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sobilo34&theme=algolia" alt="Sobilo34" />
 </p>
 
 
