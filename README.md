@@ -45,7 +45,7 @@
 <a href="https://twitter.com/sobil56" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sobil56" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/bilal-oyeleke-98202825b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bilal_oyeleke" height="30" width="40" /></a>
 <a href="https://www.instagram.com/bilaloyeleke/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bilal_oyeleke" height="30" width="40" /></a>
-<a href="https://m.facebook.com/solomon.sefah.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="solomon.sefah.7" height="30" width="40" /></a>
+<a href="https://m.facebook.com/bilal.oyeleke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="solomon.sefah.7" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">My Languages:</h3>
