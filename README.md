@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-   <a  href = "https://youtu.be/ruawVE5GwM8">
+   <a>
 <img align = "center" src = "https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
    </a>
 </div>
