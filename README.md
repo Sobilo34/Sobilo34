@@ -30,7 +30,7 @@
 
 - 💬 Ask me about **The 100 days coding challenge**
 
-- ⚡ Personal Discovery: **I am a Protagonist**
+- ⚡ Personal Discovery: **I am a Protagonist ENFJ -A**
 
 - 📫 My Email: **bilalsolih60@gmail.com**
 
