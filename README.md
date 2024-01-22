@@ -28,7 +28,7 @@
 
 - 🔭 I’m currently a Student @ [**ALX_AFRICA**](https://www.alxafrica.com)
 
-- 💬 Ask me about **The 100 days coding challenge**
+- 💬 Favourite quote **Nothing is impossible **
 
 - ⚡ Personal Discovery: **I am a Protagonist ENFJ -A**
 
