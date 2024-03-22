@@ -35,6 +35,8 @@
 - 📫 My Email: **bilalsolih60@gmail.com**
 
 
+<a href="https://stardev.io/developers/Sobilo34"><img alt="Check out Sobilo34's profile on stardev.io" src="https://stardev.io/developers/Sobilo34/badge/languages/global.svg" /></a>
+
  <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sobilo34&theme=algolia" alt="Sobilo34" />
 </p>
