@@ -26,7 +26,7 @@
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-- 🔭 I’m currently a Student @ [**ALX_AFRICA**](https://www.alxafrica.com)
+- 🔭 I’m an alumni of [**ALX_AFRICA**](https://www.alxafrica.com)
 
 - 💬 Favourite quote **Nothing is impossible **
 
