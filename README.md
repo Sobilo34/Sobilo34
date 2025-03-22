@@ -1,4 +1,3 @@
-
 <h1 align="center"> DEV. SOBIL 💻💻 </h1>
  <div align="center" style="color: red;">
   <img src="https://readme-typing-svg.herokuapp.com?color=0000FF&size=32&center=true&vCenter=true&width=600&height=50&lines=Hello,+I'm+Sobil+%F0%9F%91%8B;+++Full-Stack+Developer;Software+Engineer;Protagonist+in+Agile+Technology;Freelancer;AI+Enthusiast;" alt="Headline" />
@@ -28,20 +27,15 @@
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
 - 🔭 I’m an alumni of [**ALX_AFRICA**](https://www.alxafrica.com)
-
-- 💬 Favourite quote **Nothing is impossible **
-
+- 💬 Favourite quote: **"Nothing is impossible"**
 - ⚡ Personal Discovery: **I am a Protagonist ENFJ -A**
-
 - 📫 My Email: **bilalsolih60@gmail.com**
-
 
 <a href="https://stardev.io/developers/Sobilo34"><img alt="Check out Sobilo34's profile on stardev.io" src="https://stardev.io/developers/Sobilo34/badge/languages/global.svg" /></a>
 
- <p align="left">
+<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sobilo34&theme=algolia" alt="Sobilo34" />
 </p>
-
 
 <h3 align="left">My Contact Outline:</h3>
 <p align="left">
@@ -56,19 +50,15 @@
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
   </a>
-
-   <a href="https://www.python.org" target="_blank" rel="noreferrer">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
-
-   <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)" target="_blank" rel="noreferrer">
+  <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="shell" width="40" height="40"/>
   </a>
-  
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
-
   <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   </a>
@@ -82,35 +72,28 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
- 
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="40" height="40"/>
   </a>
-  
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/>
   </a>
-  
   <a href="https://slack.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg" alt="slack" width="40" height="40"/>
   </a>
-  
   <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/>
   </a>
   <a href="https://github.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="40" height="40"/>
   </a>
-
   <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" width="40" height="40"/>
   </a>
-  
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
   </a>
 </p>
-
 
 <p align="left">
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sobilo34&theme=algolia&show_icons=true&locale=en&layout=compact" alt="Sobilo34" />
@@ -122,6 +105,4 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sobilo34&theme=algolia&show_icons=true&count_private=true&hide_title=true)
 
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sobilo34&theme=high-contrast&height=250" alt="GitHub Activity Graph">
-
- 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sobilo34&theme=high-contrast&height=250" alt="GitHub Activity Graph">
