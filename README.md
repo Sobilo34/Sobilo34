@@ -1,21 +1,27 @@
 <h1 align="center"> DEV. SOBIL 💻💻 </h1>
- <div align="center" style="color: red;">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0000FF&size=32&center=true&vCenter=true&width=600&height=50&lines=Hello,+I'm+Sobil+%F0%9F%91%8B;+++Full-Stack+Developer;Software+Engineer;Protagonist+in+Agile+Technology;Freelancer;AI+Enthusiast;" alt="Headline" />
+<div align="center" style="color: blue;">
+  <img src="https://readme-typing-svg.herokuapp.com?color=0000FF&size=32&center=true&vCenter=true&width=600&height=50&lines=Hello,+I'm+Sobil+%F0%9F%91%8B;Full-Stack+Developer;Software+Engineer;Protagonist+in+Agile+Technology;Freelancer;AI+Enthusiast;" alt="Headline" />
 </div>
 
 <div align="center">
    <a>
-<img align = "center" src = "https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
+      <img align="center" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
    </a>
 </div>
 
 <br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sobilo34&label=Profile%20views&color=0e75b6&style=flat" alt="Sobilo34" /> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=Sobilo34&label=Profile%20views&color=0e75b6&style=flat" alt="Sobilo34" /> 
+</p>
 
 [![Beacons.ai Profile](https://img.shields.io/badge/About_Me-Sobil-9cf?style=for-the-badge&logo=beacons&color=blue)](https://beacons.ai/sobil56)
 
-<p align="left"> <a href="https://twitter.com/sobil56" target="blank"><img src="https://img.shields.io/twitter/follow/sobil56?logo=twitter&style=for-the-badge" alt="sobil56" /></a> </p>
+<p align="left"> 
+  <a href="https://twitter.com/sobil56" target="blank">
+    <img src="https://img.shields.io/twitter/follow/sobil56?logo=twitter&style=for-the-badge" alt="sobil56" />
+  </a> 
+</p>
 
 <br>
 <div align="right">
@@ -23,15 +29,16 @@
 </div>
 <br>
 
-
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px"></picture> **About Me**
 
 - 🔭 I’m an alumni of [**ALX_AFRICA**](https://www.alxafrica.com)
 - 💬 Favourite quote: **"Nothing is impossible"**
 - ⚡ Personal Discovery: **I am a Protagonist ENFJ -A**
 - 📫 My Email: **bilalsolih60@gmail.com**
 
-<a href="https://stardev.io/developers/Sobilo34"><img alt="Check out Sobilo34's profile on stardev.io" src="https://stardev.io/developers/Sobilo34/badge/languages/global.svg" /></a>
+<a href="https://stardev.io/developers/Sobilo34">
+  <img alt="Check out Sobilo34's profile on stardev.io" src="https://stardev.io/developers/Sobilo34/badge/languages/global.svg" />
+</a>
 
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sobilo34&theme=algolia" alt="Sobilo34" />
@@ -39,10 +46,18 @@
 
 <h3 align="left">My Contact Outline:</h3>
 <p align="left">
-<a href="https://twitter.com/sobil56" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sobil56" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/bilal-oyeleke-98202825b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bilal_oyeleke" height="30" width="40" /></a>
-<a href="https://www.instagram.com/bilaloyeleke/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bilal_oyeleke" height="30" width="40" /></a>
-<a href="https://m.facebook.com/bilaloyeleke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="solomon.sefah.7" height="30" width="40" /></a>
+  <a href="https://twitter.com/sobil56" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sobil56" height="30" width="40" />
+  </a>
+  <a href="https://www.linkedin.com/in/bilal-oyeleke-98202825b" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bilal_oyeleke" height="30" width="40" />
+  </a>
+  <a href="https://www.instagram.com/bilaloyeleke/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bilal_oyeleke" height="30" width="40" />
+  </a>
+  <a href="https://m.facebook.com/bilaloyeleke" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="solomon.sefah.7" height="30" width="40" />
+  </a>
 </p>
 
 <h3 align="left">My Languages:</h3>
