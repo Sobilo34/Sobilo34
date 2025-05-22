@@ -24,7 +24,7 @@
 </div>
 
 - 🔭 ALX Software Engineering Alumni | Full-Stack Developer
-- 🌱 Currently learning **Advanced React and Machine Learning**
+- 🌱 Currently learning **Blockchain and AI**
 - 👯 I'm open to collaborate on **open-source projects and innovative startups**
 - 💬 Favorite quote: *"Nothing is impossible"*
 - ⚡ Personality: **Protagonist (ENFJ-A)**
@@ -141,30 +141,6 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Sobilo34" height="30" width="40" />
   </a>
 </p>
-
-## 📈 Recent GitHub Activity
-
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1] in [Sobilo34/repository] 
-2. 🚀 Pushed 3 commits to [Sobilo34/repository]
-3. 🔨 Opened issue [#2] in [Sobilo34/repository]
-4. 🛠️ Started working on [project-name]
-<!--END_SECTION:activity-->
-
-## 🔥 My Projects
-
-Here are some of my notable projects:
-
-- [Project 1](https://github.com/Sobilo34/project1) - Short description
-- [Project 2](https://github.com/Sobilo34/project2) - Short description
-- [Project 3](https://github.com/Sobilo34/project3) - Short description
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Post Title 1](https://yourblog.com/post1)
-- [Post Title 2](https://yourblog.com/post2)
-<!-- BLOG-POST-LIST:END -->
 
 <p align="center">
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
