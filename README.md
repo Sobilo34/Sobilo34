@@ -44,7 +44,7 @@
 <!-- ANIMATED IDENTITY CARD via readme-typing-svg side by side with status -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=false&width=480&height=220&lines=++++++++++BILAL+OYELEKE+(SOBIL)++++++++++++;+;Role+++++++Full-Stack+Web2+%26+Web3;Location++++Alor+Setar%2C+Malaysia;Timezone++++UTC+-12%3A00;ORCID+++++++0009-0008-7964-6643;+;JOURNEY%3A+Elite+CT+%E2%86%92+ALX+%E2%86%92+Web3bridge;+;Personality++Protagonist+ENFJ-A;Quote+++++++%22Nothing+is+impossible.%22" alt="Identity Card" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=false&width=480&height=220&lines=++++++++++BILAL+OYELEKE+(SOBIL)++++++++++++;+;Role+++++++Full-Stack+Web2+%26+Web3;Location++++Alor+Setar%2C+Malaysia;Timezone++++UTC+-12%3A00;ORCID+++++++0009-0008-7964-6643;+;JOURNEY%3A+Elite+CT+%E2%86%92+ALX+%E2%86%92+Web3bridge+%E2%86%92+AIU;+;Personality++Protagonist+ENFJ-A;Quote+++++++%22Nothing+is+impossible.%22" alt="Identity Card" />
 
 </div>
 
