@@ -1,148 +1,248 @@
-<h1 align="center">👨💻 DEV. SOBIL 💻</h1>
+<!-- Header Banner -->
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║              BILAL OYELEKE  ·  DEV. SOBIL                        ║
+║              Web2 & Web3 Software Engineer                       ║
+║              Building the decentralized future, one commit       ║
+║              at a time.                                          ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0000FF&size=32&center=true&vCenter=true&width=600&height=50&lines=Hello,+I'm+Sobil+%F0%9F%91%8B;Full-Stack+Developer;Software+Engineer;Agile+Technology+Enthusiast;Freelancer;AI+Researcher;" alt="Headline" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Web2+%26+Web3+Engineer;Smart+Contract+Developer;Building+on+Ethereum+%7C+Solidity+%7C+IPFS;ALX+Software+Engineering+Alumni;ENFJ-A+%E2%80%94+%22Nothing+is+impossible%22" alt="Typing SVG" />
+  </a>
 </div>
+
+<br/>
 
 <div align="center">
-   <img align="center" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Coding GIF" />
+  <a href="https://www.linkedin.com/in/bilal-oyeleke-98202825b">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/sobil56">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://beacons.ai/sobil56">
+    <img src="https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="mailto:bilalsolih60@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Sobilo34">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Sobilo34&style=for-the-badge&color=00d9ff&label=PROFILE+VIEWS" />
 </div>
 
-<br>
+---
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=Sobilo34&label=Profile%20views&color=0e75b6&style=flat" alt="Sobilo34" /> 
-  <a href="https://twitter.com/sobil56" target="blank">
-    <img src="https://img.shields.io/twitter/follow/sobil56?logo=twitter&style=flat" alt="sobil56" />
-  </a>
+## `whoami`
+
+```bash
+$ cat /etc/developer/sobil.conf
+```
+
+```yaml
+name:        Bilal Oyeleke (SOBIL)
+role:        Full-Stack Web2 & Web3 Software Engineer
+location:    Alor Setar, Malaysia
+timezone:    UTC-12:00
+background:  ALX Software Engineering Alumni
+personality: Protagonist · ENFJ-A
+status:      Open to Collaborate ✅
+
+currently_learning:
+  - Blockchain Architecture & Solidity
+  - AI/ML Engineering
+  - Decentralized Application (dApp) Development
+
+interests:
+  - Open-Source Contribution
+  - DAO Tooling & Web3 Infrastructure
+  - AI x Blockchain convergence
+
+quote: "Nothing is impossible."
+email: bilalsolih60@gmail.com
+portfolio: https://beacons.ai/sobil56
+```
+
+---
+
+## 🧭 About Me
+
+I'm a **Full-Stack Engineer** with strong roots in both Web2 and Web3 development. I started my engineering journey at **ALX Software Engineering**, where I built a rigorous foundation in systems programming, algorithms, and software design. Since then, I've expanded deep into blockchain development — writing smart contracts, building dApps, and exploring the frontier where **AI meets decentralization**.
+
+I build things that matter. Whether it's a clean REST API, a gas-optimized smart contract, or a responsive frontend connected to the blockchain — I care about craft, correctness, and impact.
+
+When I'm not shipping code, I'm contributing to open-source, collaborating with startups, and exploring how AI models can be applied to real-world problems.
+
+> *"The best engineers aren't just those who write code — they're those who understand why."*
+
+---
+
+## ⚡ Tech Arsenal
+
+### 🔤 Languages
+
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white"/>
 </p>
 
-## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="30px"> **About Me**
+### 🌐 Frontend
 
-<div align="right">
-  <img align="right" src="https://media.giphy.com/media/kPslaI0bx9mu3bm5no/giphy.gif" width="200px"/>
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ethers.js-764ABC?style=flat-square&logo=ethereum&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Wagmi-1C1C1C?style=flat-square&logo=ethereum&logoColor=white"/>
+</p>
+
+### 🔧 Backend
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
+</p>
+
+### ⛓️ Web3 / Blockchain
+
+<p>
+  <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hardhat-F7DF1E?style=flat-square&logo=ethereum&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Foundry-FF0000?style=flat-square&logo=ethereum&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IPFS-65C2CB?style=flat-square&logo=ipfs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=web3dotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=flat-square&logo=openzeppelin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MetaMask-E2761B?style=flat-square&logo=metamask&logoColor=white"/>
+</p>
+
+### 🛠️ DevOps & Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white"/>
+</p>
+
+---
+
+## 📊 GitHub Dashboard
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sobilo34&theme=tokyonight&hide_border=true&ring=00d9ff&fire=ff6b6b&currStreakLabel=00d9ff" width="100%"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Sobilo34&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&title_color=00d9ff&icon_color=00d9ff" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sobilo34&theme=tokyonight&hide_border=true&layout=compact&title_color=00d9ff" width="49%"/>
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Sobilo34&theme=tokyonight&column=4&row=2&margin-w=10&margin-h=10&no-bg=true&no-frame=true" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sobilo34&theme=tokyo-night&hide_border=true&area=true&color=00d9ff&line=00d9ff&point=ffffff" width="100%"/>
+
 </div>
 
-- 🔭 ALX Software Engineering Alumni | Full-Stack Developer
-- 🌱 Currently learning **Blockchain and AI**
-- 👯 I'm open to collaborate on **open-source projects and innovative startups**
-- 💬 Favorite quote: *"Nothing is impossible"*
-- ⚡ Personality: **Protagonist (ENFJ-A)**
-- 📫 How to reach me: **bilalsolih60@gmail.com**
-- 🚀 Portfolio: [beacons.ai/sobil56](https://beacons.ai/sobil56)
+---
 
-<a href="https://stardev.io/developers/Sobilo34">
-  <img alt="Check out Sobilo34's profile on stardev.io" src="https://stardev.io/developers/Sobilo34/badge/languages/global.svg" />
-</a>
+## 🚀 Featured Projects
 
-## 📊 GitHub Stats
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sobilo34&theme=algolia" alt="Sobilo34" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Sobilo34&theme=algolia&show_icons=true&count_private=true" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sobilo34&theme=algolia&show_icons=true&locale=en&layout=compact" alt="Top Languages" width="48%"/>
-  <br><br>
-  <img src="https://github-profile-trophy.vercel.app/?username=Sobilo34&theme=algolia&column=3&row=2&margin-w=15&margin-h=15&no-bg=false" alt="GitHub Trophies" />
-  <br><br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sobilo34&theme=high-contrast&height=250" alt="GitHub Activity Graph">
-</p>
+| Project | Description | Stack | Status |
+|---------|-------------|-------|--------|
+| 🐚 [simple_shell](https://github.com/Sobilo34/simple_shell) | A UNIX-like shell built from scratch in C — handles parsing, execution, and built-ins | `C` `POSIX` | ✅ Live |
+| 📦 [alx-low_level_programming](https://github.com/Sobilo34/alx-low_level_programming) | Deep dive into systems programming — pointers, memory, data structures | `C` | ✅ Complete |
+| 🐍 [alx-higher_level_programming](https://github.com/Sobilo34/alx-higher_level_programming) | Python mastery — OOP, web scraping, testing, SQL | `Python` | ✅ Complete |
+| 🤖 [DeyonOba/monty](https://github.com/DeyonOba/monty) | Monty bytecode interpreter — stack/queue data structure implementation | `C` | ✅ Complete |
 
-## 🛠️ Tech Stack
+</div>
 
-### Programming Languages
-<p>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  </a>
-  <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/>
-  </a>
-</p>
+> 📌 *More projects including Web3 dApps and full-stack applications are actively in development — watch this space.*
 
-### Frontend Development
-<p>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  </a>
-</p>
+---
 
-### Backend Development
-<p>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
-  </a>
-</p>
+## 🌱 Currently Exploring
 
-### DevOps & Tools
-<p>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="40" height="40"/>
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  </a>
-</p>
+```
+🔗 Smart Contract Security & Auditing
+🤖 AI Agents and LLM integration
+🏗️  Decentralized Finance (DeFi) protocols
+📡 Cross-chain bridge architecture
+⚙️  Zero-Knowledge Proofs (ZKP) fundamentals
+```
 
-## 🌐 Connect With Me
-<p align="left">
-  <a href="https://twitter.com/sobil56" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sobil56" height="30" width="40" />
-  </a>
-  <a href="https://www.linkedin.com/in/bilal-oyeleke-98202825b" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bilal_oyeleke" height="30" width="40" />
-  </a>
-  <a href="https://www.instagram.com/bilaloyeleke/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bilal_oyeleke" height="30" width="40" />
-  </a>
-  <a href="https://m.facebook.com/bilaloyeleke" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="solomon.sefah.7" height="30" width="40" />
-  </a>
-  <a href="https://github.com/Sobilo34" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Sobilo34" height="30" width="40" />
-  </a>
-</p>
+---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
-  <em><b>Let's connect!</b> I love meeting other developers and collaborating on projects :)</em>
-</p>
+## 🤝 Open To
+
+- 🌍 **Open-source collaboration** — especially in Web3 tooling, CLI tools, and developer utilities
+- 🚀 **Early-stage startup partnerships** — I love building from 0 → 1
+- 💼 **Freelance contracts** — Full-Stack Web2 & Web3 development
+- 🎙️ **Technical writing & mentoring** — sharing what I learn along the way
+
+---
+
+## 📬 Reach Out
+
+<div align="center">
+
+| Platform | Link |
+|----------|------|
+| 📧 Email | [bilalsolih60@gmail.com](mailto:bilalsolih60@gmail.com) |
+| 💼 LinkedIn | [bilal-oyeleke](https://www.linkedin.com/in/bilal-oyeleke-98202825b) |
+| 🐦 Twitter/X | [@sobil56](https://twitter.com/sobil56) |
+| 📸 Instagram | [@bilaloyeleke](https://www.instagram.com/bilaloyeleke/) |
+| 🚀 Portfolio | [beacons.ai/sobil56](https://beacons.ai/sobil56) |
+| 🔬 ORCID | [0009-0008-7964-6643](https://orcid.org/0009-0008-7964-6643) |
+| ⭐ StarDev | [Sobilo34 on StarDev](https://stardev.io/developers/Sobilo34) |
+
+</div>
+
+---
+
+<div align="center">
+
+```
+"The blockchain doesn't care about your title.
+ The compiler doesn't care about your feelings.
+ Ship great code — that's the language everyone understands."
+                                         — SOBIL
+```
+
+<br/>
+
+*Thanks for visiting — if something here resonates, let's build together.* 🤝
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00d9ff&height=100&section=footer&text=&fontSize=0" />
+
+</div>
