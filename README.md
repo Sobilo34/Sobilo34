@@ -1,5 +1,5 @@
 <!-- TOP BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=BILAL%20OYELEKE%20%C2%B7%20DEV.%20SOBIL&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Web2%20%26%20Web3%20Software%20Engineer%20%7C%20Smart%20Contract%20Developer%20%7C%20AI%20Researcher&descSize=15&descAlignY=58" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=200&amp;section=header&amp;text=BILAL%20OYELEKE%20%C2%B7%20DEV.%20SOBIL&amp;fontSize=40&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=35&amp;desc=Web2%20%26%20Web3%20Software%20Engineer%20%7C%20Smart%20Contract%20Developer%20%7C%20AI%20Researcher&amp;descSize=15&amp;descAlignY=58" />
 
 <!-- TYPING ANIMATION -->
 <div align="center">
