@@ -258,7 +258,7 @@ Web Solutions            C · Python,            DeFi · IPFS,         AI x Bloc
 
 <br/>
 
-[![Check out my profile on stardev.io](https://stardev.io/developers/Sobilo34/badge/languages/global.svg)](https://stardev.io/developers/Sobilo34)
+<a href="https://stardev.io/developers/Sobilo34"><img alt="Check me out&apos;s profile on stardev.io" src="https://stardev.io/developers/Sobilo34/badge/languages/global.svg" /></a>
 
 </div>
 
