@@ -77,9 +77,9 @@ portfolio: https://beacons.ai/sobil56
 
 ## 🧭 About Me
 
-I'm a **Full-Stack Engineer** with strong roots in both Web2 and Web3 development. I started my engineering journey at **ALX Software Engineering**, where I built a rigorous foundation in systems programming, algorithms, and software design. Since then, I've expanded deep into blockchain development — writing smart contracts, building dApps, and exploring the frontier where **AI meets decentralization**.
+I'm a **Full-Stack Engineer** with strong roots in both Web2 and Web3 development. I started my engineering journey at **Elite Computer Technology** where I learnt fronend web development and built web solution, then to **ALX Software Engineering**, where I built a rigorous foundation in systems programming, algorithms, and software design and built indutrial level projects, then **Web3bridge** where I built a strong foundation in web3 and blockchain engineering. Since then, I've expanded deep into blockchain development — writing smart contracts, building dApps, and exploring the frontier where **AI meets decentralization**.
 
-I build things that matter. Whether it's a clean REST API, a gas-optimized smart contract, or a responsive frontend connected to the blockchain — I care about craft, correctness, and impact.
+I build things that matter. Whether it's a clean REST API, a gas-optimized smart contract, or a responsive web app pr mobile app connected to the blockchain — I care about craft, correctness, and impact.
 
 When I'm not shipping code, I'm contributing to open-source, collaborating with startups, and exploring how AI models can be applied to real-world problems.
 
@@ -87,9 +87,9 @@ When I'm not shipping code, I'm contributing to open-source, collaborating with 
 
 ---
 
-## ⚡ Tech Arsenal
+##  Tech Arsenal
 
-### 🔤 Languages
+###  Languages
 
 <p>
   <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
@@ -172,24 +172,7 @@ When I'm not shipping code, I'm contributing to open-source, collaborating with 
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-| Project | Description | Stack | Status |
-|---------|-------------|-------|--------|
-| 🐚 [simple_shell](https://github.com/Sobilo34/simple_shell) | A UNIX-like shell built from scratch in C — handles parsing, execution, and built-ins | `C` `POSIX` | ✅ Live |
-| 📦 [alx-low_level_programming](https://github.com/Sobilo34/alx-low_level_programming) | Deep dive into systems programming — pointers, memory, data structures | `C` | ✅ Complete |
-| 🐍 [alx-higher_level_programming](https://github.com/Sobilo34/alx-higher_level_programming) | Python mastery — OOP, web scraping, testing, SQL | `Python` | ✅ Complete |
-| 🤖 [DeyonOba/monty](https://github.com/DeyonOba/monty) | Monty bytecode interpreter — stack/queue data structure implementation | `C` | ✅ Complete |
-
-</div>
-
-> 📌 *More projects including Web3 dApps and full-stack applications are actively in development — watch this space.*
-
----
-
-## 🌱 Currently Exploring
+## Currently Exploring
 
 ```
 🔗 Smart Contract Security & Auditing
@@ -204,7 +187,7 @@ When I'm not shipping code, I'm contributing to open-source, collaborating with 
 ## 🤝 Open To
 
 - 🌍 **Open-source collaboration** — especially in Web3 tooling, CLI tools, and developer utilities
-- 🚀 **Early-stage startup partnerships** — I love building from 0 → 1
+- 🚀 **Early-stage startup partnerships** — I love building from 0 → 100
 - 💼 **Freelance contracts** — Full-Stack Web2 & Web3 development
 - 🎙️ **Technical writing & mentoring** — sharing what I learn along the way
 
@@ -217,9 +200,8 @@ When I'm not shipping code, I'm contributing to open-source, collaborating with 
 | Platform | Link |
 |----------|------|
 | 📧 Email | [bilalsolih60@gmail.com](mailto:bilalsolih60@gmail.com) |
-| 💼 LinkedIn | [bilal-oyeleke](https://www.linkedin.com/in/bilal-oyeleke-98202825b) |
+| 💼 LinkedIn | [bilal-oyeleke](https://www.linkedin.com/in/bilal-oyeleke) |
 | 🐦 Twitter/X | [@sobil56](https://twitter.com/sobil56) |
-| 📸 Instagram | [@bilaloyeleke](https://www.instagram.com/bilaloyeleke/) |
 | 🚀 Portfolio | [beacons.ai/sobil56](https://beacons.ai/sobil56) |
 | 🔬 ORCID | [0009-0008-7964-6643](https://orcid.org/0009-0008-7964-6643) |
 | ⭐ StarDev | [Sobilo34 on StarDev](https://stardev.io/developers/Sobilo34) |
