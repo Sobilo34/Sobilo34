@@ -80,7 +80,7 @@ When I'm not shipping code, I'm contributing to open-source, partnering with ear
 ```
 ──────────────────────────────────────────────────────────────────────────────
 
-  [2021]                [2022 - 2023]           [2023 - 2024]          [Now]
+  [2022]                [2023 - 2024]           [2025]          [Now]
      │                       │                       │                    │
      ▼                       ▼                       ▼                    ▼
 Elite Computer           ALX Software           Web3bridge           Independent
