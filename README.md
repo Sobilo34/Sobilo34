@@ -3,7 +3,7 @@
 
 <!-- TYPING ANIMATION -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=700&lines=Full-Stack+Web2+%26+Web3+Engineer;Smart+Contract+Developer+%7C+Solidity+%7C+Foundry;Building+dApps+on+Ethereum;ALX+Software+Engineering+Alumni;Web3bridge+Blockchain+Graduate;ENFJ-A+Protagonist+%E2%80%94+%22Nothing+is+impossible%22" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=700&lines=Full-Stack+Web2+%26+Web3+Engineer;Smart+Contract+Developer+%7C+Solidity+%7C+Foundry;Building+dApps+on+Ethereum;ALX+Software+Engineering+Alumni;Web3bridge+Alumni;ENFJ-A+Protagonist+%E2%80%94+%22Nothing+is+impossible%22" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -201,23 +201,6 @@ Web Solutions            C · Python,            DeFi · IPFS,         AI x Bloc
 
 ---
 
-## Featured Projects
-
-<div align="center">
-
-| Project | Description | Stack | Status |
-|---------|-------------|-------|--------|
-| [simple_shell](https://github.com/Sobilo34/simple_shell) | UNIX-like shell from scratch — parsing, execution, built-ins | `C` `POSIX` | Done |
-| [alx-low_level_programming](https://github.com/Sobilo34/alx-low_level_programming) | Systems programming — pointers, memory, data structures | `C` | Done |
-| [alx-higher_level_programming](https://github.com/Sobilo34/alx-higher_level_programming) | Python mastery — OOP, web scraping, testing, SQL | `Python` | Done |
-| [DeyonOba/monty](https://github.com/DeyonOba/monty) | Monty bytecode interpreter — stack & queue implementation | `C` | Done |
-
-</div>
-
-*Web3 dApps and full-stack projects actively in development — watch this space.*
-
----
-
 ## Currently Exploring
 
 <div align="center">
@@ -259,42 +242,6 @@ Web Solutions            C · Python,            DeFi · IPFS,         AI x Bloc
 | StarDev | [Sobilo34 on StarDev](https://stardev.io/developers/Sobilo34) |
 
 </div>
-
----
-
-## Snake Setup (One-Time — 5 Minutes)
-
-The snake animation pulls from a branch called `output` in your profile repo. To generate it automatically every day, create this file in your `Sobilo34/Sobilo34` repository:
-
-**Path:** `.github/workflows/snake.yml`
-
-```yaml
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-After saving, go to **Actions** tab → run the workflow manually once → the snake appears.
 
 ---
 
